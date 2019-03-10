@@ -1,0 +1,15 @@
+{
+  "name": "taller-jest",
+  "version": "1.0.0",
+  "description": "\"Taller pruebas unitarias aprendiendo a tener el control\"",
+  "main": "index.js",
+  "repository": "git@GitHub:OrcaPracticas/taller-jest.git",
+  "author": "Jmendez <jorge.mendez.ortega@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-jest": "^24.3.1",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "jest": "^24.3.1"
+  }
+}
