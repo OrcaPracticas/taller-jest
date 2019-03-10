@@ -7,9 +7,12 @@
   "author": "Jmendez <jorge.mendez.ortega@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "babel-jest": "^24.3.1",
-    "babel-polyfill": "^6.26.0",
-    "babel-preset-env": "^1.7.0",
-    "jest": "^24.3.1"
+    "@babel/preset-env": "^7.3.4",
+    "babel-jest": "24.3.1",
+    "babel-polyfill": "6.26.0",
+    "jest": "24.3.1"
+  },
+  "scripts": {
+    "test": "jest"
   }
 }
